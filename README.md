@@ -1,8 +1,8 @@
-# Roquet.q
+# Roquet.Q
 
 Projeto criado na Missão Discover da NLW Together, da RocketSeat! 💜
 
-Sistema de perguntas anônimas, missão criada para revisar e evoluir como desenvolvedor(a).
+Aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
     Criado com as Tecnologias
 -  HTML
