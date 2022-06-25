@@ -16,8 +16,9 @@
 -  EJS
 -  Express
 -  SQLite
-
+<br>
+  
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./license) para mais detalhes.
 <br>
 <br>
-
 See you, baby ❤️
